@@ -1,9 +1,7 @@
 // Josh Williams
 // 12/1/2019
-// CSC-134-81A
-// Final Project - Drink Machine Simulator
 
-// Create a class that simulates and manages a soft drink machine.
+// Drink Machine Simulator
 
 #include <iostream>
 #include <string>
