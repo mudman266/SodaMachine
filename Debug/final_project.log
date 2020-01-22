@@ -1,0 +1,4 @@
+﻿  final_project.cpp
+C:\school\CSC-134\final_project\final_project.cpp(187,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\school\CSC-134\final_project\final_project.cpp(263,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  final_project.vcxproj -> C:\school\CSC-134\final_project\Debug\final_project.exe
